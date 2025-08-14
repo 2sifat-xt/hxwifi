@@ -18,7 +18,7 @@ import csv
 from typing import Dict
 
 print('''
-\033[1;96m Sifat is cooking ☠️\nOne line Command:\nsudo python hxwifi/birihack.py -i wlan0 -K\n
+\033[1;96m Sifat is cooking ☠️\nOne line Command:\nsudo python hxwifi/whxfi.py -i wlan0 -K\n
 ''')
 class NetworkAddress:
     def __init__(self, mac):
